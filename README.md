@@ -20,31 +20,6 @@ This project implements a stock prediction system that analyzes historical stock
 - **Machine Learning Libraries**: (Specific libraries would be detailed in the notebook)
 - **Data Analysis Tools**: Pandas, NumPy, etc.
 
-## 📁 Project Structure
-
-```
-stock-prediction/
-├── IBCS_EE.ipynb      # Main Jupyter notebook with model implementation
-├── README.md          # Project documentation
-└── (Additional data files would typically be included)
-```
-
-## 🔧 Installation & Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/aswanihritik/stock-prediction.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd stock-prediction
-   ```
-
-3. **Open the notebook**:
-   - Using Jupyter: `jupyter notebook IBCS_EE.ipynb`
-   - Or open directly in Google Colab
-
 ## 📊 Usage
 
 1. Open `IBCS_EE.ipynb` in Jupyter Notebook or Google Colab
